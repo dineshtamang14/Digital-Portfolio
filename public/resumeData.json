@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name": "Dinesh Tamang",
+    "occupation": "Student",
+    "description": "I eat, sleep and breathe Python, React",
+    "image": "banner-image.png",
+    "bio": "Hi there! I am Dinesh! I've been coding for over 2 years now. As a Backend developer and Cloud Engineer.",
+    "contactmessage": "Get in touch with me to collabrate",
+    "email": "dineshtamang7263@gmail.com",
+    "phone": "+91 8669186809",
+    "address": {
+      "street": "Boradpada road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "421503"
+    },
+    "website": "https://dineshtamang14.github.io/portfolio",
+    "resumedownload": "https://drive.google.com/u/0/uc?id=1Z6RXUrFVUp05R81MKDApX9SfqtzihpqO&export=download",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dinesh-tamang-4264b5176",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dineshtamang14",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Dilkap college of Engineering.",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2019 - 23",
+        "description": "Present"
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "60%"
+      },
+      {
+        "name": "AWS",
+        "level": "50%"
+      },
+      {
+        "name": "Linux",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://amazon-clone-five-fawn.vercel.app"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-c45d1.web.app"
+      },
+      {
+        "title": "portfolio",
+        "category": "",
+        "image": "portfolio.png",
+        "url": "https://dineshtamang14.github.io/portfolio"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
