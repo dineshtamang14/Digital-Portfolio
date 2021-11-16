@@ -2,7 +2,7 @@
   "main": {
     "name": "Dinesh Tamang",
     "occupation": "Student",
-    "description": "I eat, sleep and breathe Python, React",
+    "description": "I eat, sleep and code",
     "image": "banner-image.png",
     "bio": "Hi there! I am Dinesh! I've been coding for over 2 years now. As a Backend developer and Cloud Engineer.",
     "contactmessage": "Get in touch with me to collabrate",
@@ -97,6 +97,12 @@
         "category": "",
         "image": "portfolio.png",
         "url": "https://dineshtamang14.github.io/portfolio"
+      },
+      {
+        "title": "Airbnb clone (Next js)",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airbnb-clone-puce-gamma.vercel.app"
       }
     ]
   },
