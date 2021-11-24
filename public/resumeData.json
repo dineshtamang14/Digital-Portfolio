@@ -103,6 +103,12 @@
         "category": "",
         "image": "airbnb.png",
         "url": "https://airbnb-clone-puce-gamma.vercel.app"
+      },
+      {
+        "title": "Hulu (Next js)",
+        "category": "",
+        "image": "Hulu-clone.png",
+        "url": "https://hulu-clone-7eiqqfffu-dineshtamang14.vercel.app"
       }
     ]
   },
