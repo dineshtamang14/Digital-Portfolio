@@ -109,6 +109,12 @@
         "category": "",
         "image": "Hulu-clone.png",
         "url": "https://hulu-clone-7eiqqfffu-dineshtamang14.vercel.app"
+      },
+      {
+        "title": "Google clone",
+        "category": "",
+        "image": "google1.png",
+        "url": "https://google-clone-amber.vercel.app"
       }
     ]
   },
