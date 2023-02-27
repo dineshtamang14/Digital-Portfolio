@@ -2,30 +2,40 @@
   "main": {
     "name": "Dinesh Tamang",
     "occupation": "Student",
-    "description": "eat, sleep, code and repeat.",
+    "description": "AWS Solution Architect, Backend Engineer, DevOps Engineer And MERN Stack Developer.",
     "image": "banner-image.png",
-    "bio": "Hi there! I am Dinesh! I've been coding for over 2 years now. As a Backend developer and Cloud Engineer.",
+    "bio": "Hi there! I am Dinesh Tamang! student at Mumbai University, currently in fourth year B.E. Computer Science. My Technical skill includes programming in python, java, c++, typescript, Node.js and Databases such as sql and Nosql. and i am also familiar with Web Development, Kubernetes, Docker, Ansible, terraform, AWS etc.",
     "contactmessage": "Get in touch with me to collabrate",
     "email": "dineshtamang7263@gmail.com",
     "phone": "+91 8669186809",
     "address": {
-      "street": "charGoan Boradapada Road",
+      "street": "",
       "city": "Mumbai",
       "state": "Maharashtra",
       "zip": "421503"
     },
-    "website": "https://dineshtamang14.github.io/portfolio",
+    "website": "https://portfolio.dineshtamang.tech",
     "resumedownload": "https://drive.google.com/u/0/uc?id=1Z6RXUrFVUp05R81MKDApX9SfqtzihpqO&export=download",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/dinesh-tamang-4264b5176",
+        "url": "https://www.linkedin.com/in/dineshtamang14",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
         "url": "https://github.com/dineshtamang14",
         "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/din_esh143",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "geeksforgeeks",
+        "url": "https://auth.geeksforgeeks.org/user/dineshtamang1434/",
+        "className": "fa fa-geeksforgeeks"
       }
     ]
   },
@@ -35,7 +45,7 @@
       {
         "school": "Dilkap college of Engineering.",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "2019 - 23",
+        "graduated": "2019 - 2023",
         "description": "Present"
       }
     ],
@@ -49,72 +59,134 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "AWS Solution Architect",
         "level": "80%"
       },
       {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "70%"
-      },
-      {
-        "name": "Web Development",
+        "name": "Kubernetes",
         "level": "60%"
       },
       {
-        "name": "AWS",
+        "name": "Terraform",
+        "level": "70%"
+      },
+      {
+        "name": "Jenkins",
         "level": "50%"
       },
       {
-        "name": "Linux",
+        "name": "Ansible",
+        "level": "60%"
+      },
+      {
+        "name": "Docker, Docker-Compose, Docker-Swarm and LXD and LXC Containers",
+        "level": "80%"
+      },
+      {
+        "name": "Red Hat Enterprise Linux",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Typescript",
+        "level": "60%"
+      },
+      {
+        "name": "Git and Github",
+        "level": "70%"
+      },
+      {
+        "name": "java",
         "level": "50%"
+      },
+      {
+        "name": "C++",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Amazon Clone (React JS)",
-        "category": "",
+        "title": "Online Movies Streaming",
+        "category": "Frontend using Next.js and Backend using aws services like s3 bucket, lambda, cloudfront and mediaConvert",
         "image": "amazon.png",
-        "url": "https://amazon-clone-five-fawn.vercel.app"
+        "url": "https://movies.dineshtamang.tech"
       },
       {
-        "title": "Netflix Clone (React JS)",
-        "category": "",
+        "title": "Renting Application",
+        "category": "Hybrid application created using react-native and backend implemented using aws services like aws-amplify, cloudformation stack, aws-appsync and aws-cognito.",
         "image": "netflix.png",
-        "url": "https://netflix-clone-c45d1.web.app"
+        "url": "https://rent.dineshtamang.tech"
       },
       {
-        "title": "portfolio",
-        "category": "",
+        "title": "AWS 3 tier infrastructure setup.",
+        "category": "3 tier infrastructure setup using terraform based on environment such as dev, QA and prod",
         "image": "portfolio.png",
-        "url": "https://dineshtamang14.github.io/portfolio"
+        "url": "https://github.com/dineshtamang14/Terraform-exercises"
       },
       {
-        "title": "Airbnb clone (Next js)",
-        "category": "",
+        "title": "CICD using jenkins and kubernetes",
+        "category": "java project CICD using jenkins and deployment in kubernetes cluster using helm charts.",
         "image": "airbnb.png",
-        "url": "https://airbnb-clone-puce-gamma.vercel.app"
+        "url": "https://github.com/dineshtamang14/CICD-Kubernetes-Docker"
       },
       {
-        "title": "Hulu (Next js)",
-        "category": "",
+        "title": "Hulu clone",
+        "category": "Hulu clone created in Next.js using TMDB api.",
         "image": "Hulu-clone.png",
-        "url": "https://hulu-clone-7eiqqfffu-dineshtamang14.vercel.app"
+        "url": "https://hulu.dineshtamang.tech"
       },
       {
         "title": "Google clone",
-        "category": "",
+        "category": "Google clone created in React.js using google search api.",
         "image": "google1.png",
-        "url": "https://google-clone-amber.vercel.app"
+        "url": "https://google.dineshtamang.tech"
+      },
+      {
+        "title": "Youtube clone",
+        "category": "Youtube clone created in React.js using youtube api.",
+        "image": "",
+        "url": "https://youtube.dineshtamang.tech"
+      },
+      {
+        "title": "Books website",
+        "category": "Books website created in React.js. it has admin panel to upload new books and Restful api created in Node.js",
+        "image": "",
+        "url": "https://books.dineshtamang.tech"
+      },
+      {
+        "title": "python ethical hacking scripts",
+        "category": "basic python ethical hacking scripts",
+        "image": "",
+        "url": "https://github.com/dineshtamang14/Python_Scripts"
+      }, 
+      {
+        "title": "Amazon clone",
+        "category": "Amazon clone using React.js",
+        "image": "",
+        "url": "https://amazon.dineshtamang.tech"
+      },
+      {
+        "title": "Airbnb clone",
+        "category": "Airbnb clone using React.js",
+        "image": "airbnb.png",
+        "url": "https://airbnb.dineshtamang.tech"
+      },
+      {
+        "title": "Netflix clone",
+        "category": "Netflix clone using React.js",
+        "image": "netflix.png",
+        "url": "https://netflix.dineshtamang.tech"
+      }, 
+      {
+        "title": "E-Commerce api",
+        "category": "E-Commerce Restful api in Typescript.",
+        "image": "",
+        "url": "https://github.com/dineshtamang14/E-Commerce-API"
       }
     ]
   },
