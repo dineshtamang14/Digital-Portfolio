@@ -15,7 +15,7 @@
       "zip": "421503"
     },
     "website": "https://portfolio.dineshtamang.tech",
-    "resumedownload": "https://drive.google.com/u/0/uc?id=1Z6RXUrFVUp05R81MKDApX9SfqtzihpqO&export=download",
+    "resumedownload": "https://drive.google.com/u/0/uc?id=1MsQO-TRacm7bFQzBfail1NiKQ13PT3kq&export=download",
     "social": [
       {
         "name": "linkedin",
@@ -129,26 +129,26 @@
       {
         "title": "AWS 3 tier infrastructure setup.",
         "category": "3 tier infrastructure setup using terraform based on environment such as dev, QA and prod",
-        "image": "",
+        "image": "aws.png",
         "url": "https://github.com/dineshtamang14/Terraform-exercises"
       },
       {
         "title": "CICD using jenkins and kubernetes",
         "category": "java project CICD using jenkins and deployment in kubernetes cluster using helm charts.",
-        "image": "",
+        "image": "aws.png",
         "url": "https://github.com/dineshtamang14/CICD-Kubernetes-Docker"
       },
       {
         "title": "Hulu clone",
         "category": "Hulu clone created in Next.js using TMDB api.",
         "image": "Hulu-clone.png",
-        "url": "https://hulu.dineshtamang.tech"
+        "url": "https://hulu-clone-orpin-nine.vercel.app"
       },
       {
         "title": "Google clone",
         "category": "Google clone created in React.js using google search api.",
         "image": "google.png",
-        "url": "https://google.dineshtamang.tech"
+        "url": "https://google-cloned2.netlify.app"
       },
       {
         "title": "Youtube clone",
@@ -165,7 +165,7 @@
       {
         "title": "python ethical hacking scripts",
         "category": "basic python ethical hacking scripts",
-        "image": "",
+        "image": "ethical.png",
         "url": "https://github.com/dineshtamang14/Python_Scripts"
       }, 
       {
@@ -189,7 +189,7 @@
       {
         "title": "E-Commerce api",
         "category": "E-Commerce Restful api in Typescript.",
-        "image": "",
+        "image": "api.png",
         "url": "https://github.com/dineshtamang14/E-Commerce-API"
       }
     ]
