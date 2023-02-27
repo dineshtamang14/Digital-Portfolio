@@ -79,8 +79,12 @@
         "level": "60%"
       },
       {
-        "name": "Docker, Docker-Compose, Docker-Swarm and LXD and LXC Containers",
+        "name": "Docker",
         "level": "80%"
+      },
+      {
+        "name": "LXD and LXC Containers",
+        "level": "70%"
       },
       {
         "name": "Red Hat Enterprise Linux",
@@ -113,25 +117,25 @@
       {
         "title": "Online Movies Streaming",
         "category": "Frontend using Next.js and Backend using aws services like s3 bucket, lambda, cloudfront and mediaConvert",
-        "image": "amazon.png",
+        "image": "online-movies.png",
         "url": "https://movies.dineshtamang.tech"
       },
       {
         "title": "Renting Application",
         "category": "Hybrid application created using react-native and backend implemented using aws services like aws-amplify, cloudformation stack, aws-appsync and aws-cognito.",
-        "image": "netflix.png",
+        "image": "renting.png",
         "url": "https://rent.dineshtamang.tech"
       },
       {
         "title": "AWS 3 tier infrastructure setup.",
         "category": "3 tier infrastructure setup using terraform based on environment such as dev, QA and prod",
-        "image": "portfolio.png",
+        "image": "",
         "url": "https://github.com/dineshtamang14/Terraform-exercises"
       },
       {
         "title": "CICD using jenkins and kubernetes",
         "category": "java project CICD using jenkins and deployment in kubernetes cluster using helm charts.",
-        "image": "airbnb.png",
+        "image": "",
         "url": "https://github.com/dineshtamang14/CICD-Kubernetes-Docker"
       },
       {
@@ -143,20 +147,20 @@
       {
         "title": "Google clone",
         "category": "Google clone created in React.js using google search api.",
-        "image": "google1.png",
+        "image": "google.png",
         "url": "https://google.dineshtamang.tech"
       },
       {
         "title": "Youtube clone",
         "category": "Youtube clone created in React.js using youtube api.",
-        "image": "",
-        "url": "https://youtube.dineshtamang.tech"
+        "image": "youtube.png",
+        "url": "https://youtube-cloned1.netlify.app"
       },
       {
         "title": "Books website",
         "category": "Books website created in React.js. it has admin panel to upload new books and Restful api created in Node.js",
-        "image": "",
-        "url": "https://books.dineshtamang.tech"
+        "image": "books.png",
+        "url": "https://books-project.vercel.app"
       },
       {
         "title": "python ethical hacking scripts",
@@ -167,8 +171,8 @@
       {
         "title": "Amazon clone",
         "category": "Amazon clone using React.js",
-        "image": "",
-        "url": "https://amazon.dineshtamang.tech"
+        "image": "amazon.png",
+        "url": "https://amazon-cloned1.netlify.app"
       },
       {
         "title": "Airbnb clone",
@@ -180,7 +184,7 @@
         "title": "Netflix clone",
         "category": "Netflix clone using React.js",
         "image": "netflix.png",
-        "url": "https://netflix.dineshtamang.tech"
+        "url": "https://netflix-clone-c45d1.web.app"
       }, 
       {
         "title": "E-Commerce api",
