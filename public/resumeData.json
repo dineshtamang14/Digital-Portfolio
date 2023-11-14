@@ -4,7 +4,7 @@
     "occupation": "Cloud Engineer.",
     "description": "Cloud Engineer, Backend Developer, Python Developer And MERN Stack Developer.",
     "image": "banner-image.png",
-    "bio": "Hi there! I am Dinesh Tamang! student at Mumbai University, currently in fourth year B.E. Computer Science. My Technical skill includes programming in python, java, c++, typescript, Node.js and Databases such as sql and Nosql. and i am also familiar with Web Development, Kubernetes, Docker, Ansible, terraform, AWS etc.",
+    "bio": "Hi there! I am Dinesh Tamang! My Technical skill includes programming in python, java, c++, typescript, Node.js and Databases such as sql and Nosql. and i am also familiar with Web Development, Kubernetes, Docker, Ansible, terraform, AWS etc.",
     "contactmessage": "Get in touch with me to collabrate",
     "email": "dineshtamang7263@gmail.com",
     "phone": "",
@@ -14,7 +14,7 @@
       "state": "Maharashtra",
       "zip": "400020"
     },
-    "website": "https://portfolio.dineshtamang.tech",
+    "website": "https://dineshtamang14.vercel.app",
     "resumedownload": "https://drive.google.com/u/0/uc?id=1MsQO-TRacm7bFQzBfail1NiKQ13PT3kq&export=download",
     "social": [
       {
@@ -124,7 +124,7 @@
         "title": "Renting Application",
         "category": "Hybrid application created using react-native and backend implemented using aws services like aws-amplify, cloudformation stack, aws-appsync and aws-cognito.",
         "image": "renting.png",
-        "url": "https://rent.dineshtamang.tech"
+        "url": "https://rent-two.vercel.app"
       },
       {
         "title": "AWS 3 tier infrastructure setup.",
