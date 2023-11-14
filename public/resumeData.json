@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Dinesh Tamang",
-    "occupation": "Student",
-    "description": "AWS Solution Architect, DevOps Engineer, Backend Developer, Python Developer And MERN Stack Developer.",
+    "occupation": "Cloud Engineer.",
+    "description": "Cloud Engineer, Backend Developer, Python Developer And MERN Stack Developer.",
     "image": "banner-image.png",
     "bio": "Hi there! I am Dinesh Tamang! student at Mumbai University, currently in fourth year B.E. Computer Science. My Technical skill includes programming in python, java, c++, typescript, Node.js and Databases such as sql and Nosql. and i am also familiar with Web Development, Kubernetes, Docker, Ansible, terraform, AWS etc.",
     "contactmessage": "Get in touch with me to collabrate",
