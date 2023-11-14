@@ -43,16 +43,16 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Dilkap college of Engineering.",
-        "degree": "Bachelor's Degree, Computer Science",
+        "school": "University of Mumbai",
+        "degree": "Bachelor of Enginnering, Computer Science",
         "graduated": "2019 - 2023",
-        "description": "Present"
+        "description": "Graduated"
       }
     ],
     "work": [
       {
-        "company": "",
-        "title": "",
+        "company": "Ataloud Technologies",
+        "title": "Cloud Engineer",
         "years": "",
         "description": ""
       }
@@ -118,7 +118,7 @@
         "title": "Online Movies Streaming",
         "category": "Frontend using Next.js and Backend using aws services like s3 bucket, lambda, cloudfront and mediaConvert",
         "image": "online-movies.png",
-        "url": "https://movies.dineshtamang.tech"
+        "url": "https://fmovieshub.netlify.app"
       },
       {
         "title": "Renting Application",
@@ -142,7 +142,7 @@
         "title": "Hulu clone",
         "category": "Hulu clone created in Next.js using TMDB api.",
         "image": "Hulu-clone.png",
-        "url": "https://hulu-cloned.netlify.app"
+        "url": "https://huluhub.vercel.app"
       },
       {
         "title": "Google clone",
@@ -187,10 +187,22 @@
         "url": "https://netflix-clone-c45d1.web.app"
       }, 
       {
+        "title": "Tinder clone",
+        "category": "Tinder clone using React.js",
+        "image": "netflix.png",
+        "url": "https://dinesh-tinder.netlify.app"
+      }, 
+      {
         "title": "E-Commerce api",
         "category": "E-Commerce Restful api in Typescript.",
         "image": "api.png",
         "url": "https://github.com/dineshtamang14/E-Commerce-API"
+      },
+      {
+        "title": "Pokemon api",
+        "category": "Pokemons Hub.",
+        "image": "api.png",
+        "url": "https://pokemonshub.vercel.app"
       }
     ]
   },
