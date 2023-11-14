@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "homepage": "https://dineshtamang14.github.io/Digital-Portfolio",
   "private": true,
+  "engines": {
+    "node": "16.13.1"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
